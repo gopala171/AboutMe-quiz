@@ -1,3 +1,11 @@
-Click the link to view my CLI quiz 
+## About Me Quiz
 
-https://replit.com/@gopala97/Aboutmequiz?embed=1&output=1#index.js
+This is a Comman Line Interface quiz on me.
+
+Tech Stack used: <br>
+
+1.HTML,<br>
+2.CSS &<br>
+3.Vanilla Js.<br>
+
+Created in replit IDE.
